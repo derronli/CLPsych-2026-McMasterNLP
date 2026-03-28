@@ -2,3 +2,7 @@ train_tasks12/
 dataset_statistics.png
 csv_files/
 all_timelines_merged.csv
+best_model.pt
+.cursorignore
+transformer_preprocessed.csv
+__pycache__/
